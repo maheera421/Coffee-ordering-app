@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "827671071168",
+    "project_id": "maheera-brew-crew",
+    "storage_bucket": "maheera-brew-crew.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827671071168:android:23125620d461a7e5d56025",
+        "android_client_info": {
+          "package_name": "com.mnm.brew_crew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcpJ8RVdSZ6CPl9VULpxILkm4uFcp93VE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
